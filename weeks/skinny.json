@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Skinny Nuts", "skinnynuts", [255, 153, 51]],
+		["Skinny Nuts 2", "skinnynuts", [255, 153, 51]],
+		["Skinny Nuts 2 Old", "skinnynuts", [255, 153, 51]],
+		["Skinny Nuts 2 Older", "skinnynuts", [255, 153, 51]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "Skinny Nuts Collection",
+	"weekBefore": "",
+        "difficulties": "HARD", 
+	"weekName": "Skinny",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

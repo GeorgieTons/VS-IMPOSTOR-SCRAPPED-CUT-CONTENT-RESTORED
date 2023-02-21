@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Double Trouble", "dt", [0, 51, 21]], 
+		["Double Trouble Old", "dt", [0, 51, 21]], 
+		["Double Ejection", "dt", [0, 51, 21]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "Week 0",
+	"weekBefore": "",
+        "difficulties": "HARD", 
+	"weekName": "Week 0",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

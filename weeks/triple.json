@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Stealth", "maroon", [82, 35, 47]],
+		["Insane", "grey", [88, 20, 164]],
+		["Insane Old", "grey", [88, 20, 164]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "Triple Trouble Week",
+	"weekBefore": "",
+        "difficulties": "HARD", 
+	"weekName": "Triple",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

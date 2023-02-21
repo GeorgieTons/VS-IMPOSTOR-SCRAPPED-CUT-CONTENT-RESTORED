@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Lotowncorrry", "jorsawee", [39, 127, 231]],
+		["Placeholder Lotowncorry", "jorsawee", [39, 127, 231]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "Jorsawsee's Week",
+	"weekBefore": "",
+        "difficulties": "HARD", 
+	"weekName": "Jorsawsee",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Posussium", "bananungus", [255, 212, 82]],
+		["Posussium Old", "bananungus", [255, 212, 82]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "Bananungus",
+	"weekBefore": "",
+        "difficulties": "HARD", 
+	"weekName": "Banana",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

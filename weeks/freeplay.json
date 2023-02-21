@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Compromised Persona", "monotone", [57, 44, 73]],
+		["Unused Jerma Song", "jerma", [94, 194, 198]],
+		["Impostor", "impostor", [187, 45, 48]],
+		["Monosus", "dead", [0, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "Freeplay",
+	"weekBefore": "",
+        "difficulties": "HARD", 
+	"weekName": "Freeplay",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

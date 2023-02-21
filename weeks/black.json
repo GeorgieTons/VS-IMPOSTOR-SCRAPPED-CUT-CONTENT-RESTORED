@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Ominous", "black", [0, 0, 0]],
+		["Ominous Old", "black", [0, 0, 0]],
+		["Infikiller", "black-infi", [112, 45, 166]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "Black Songs",
+	"weekBefore": "",
+        "difficulties": "HARD", 
+	"weekName": "Black",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

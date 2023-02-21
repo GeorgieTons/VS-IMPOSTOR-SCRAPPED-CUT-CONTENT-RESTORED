@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Kyubism", "kyubi", [88, 20, 164]],
+		["Death Toll", "kyubi", [88, 20, 164]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "KyubiCrasher",
+	"weekBefore": "",
+        "difficulties": "HARD", 
+	"weekName": "Kyubi",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

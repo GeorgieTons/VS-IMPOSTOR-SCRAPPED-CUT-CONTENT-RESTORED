@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Boing!", "impostor3", [0, 51, 21]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "Boing Song",
+	"weekBefore": "",
+        "difficulties": "No Events, With Events", 
+	"weekName": "Boing",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
