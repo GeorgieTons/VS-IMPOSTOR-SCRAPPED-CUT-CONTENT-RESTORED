@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-48,
+				-34
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Zbf miss"
+		},
+		{
+			"offsets": [
+				-46,
+				-33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Zbf miss"
+		},
+		{
+			"offsets": [
+				-46,
+				-33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Zbf miss"
+		},
+		{
+			"offsets": [
+				-46,
+				-33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Zbf miss"
+		},
+		{
+			"offsets": [
+				-49,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Zbf idle scared"
+		},
+		{
+			"offsets": [
+				-48,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Zbf left scared"
+		},
+		{
+			"offsets": [
+				-34,
+				-56
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Zbf down scared"
+		},
+		{
+			"offsets": [
+				-115,
+				46
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Zbf up scared"
+		},
+		{
+			"offsets": [
+				-93,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Zbf right scared"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_Defeat_Scared_Old",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

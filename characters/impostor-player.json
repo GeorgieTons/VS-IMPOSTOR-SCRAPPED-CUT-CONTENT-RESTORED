@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pink idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pink down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				441
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pink up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				201,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pink izquierda tru0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "derecha0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				336,
+				58
+			],
+			"anim": "singDOWN-shoot",
+			"fps": 24,
+			"name": "pink down shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				388,
+				129
+			],
+			"anim": "singUP-shoot",
+			"fps": 24,
+			"name": "pink up shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				625,
+				70
+			],
+			"anim": "singLEFT-shoot",
+			"fps": 24,
+			"name": "pink izquierda tru shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				370,
+				60
+			],
+			"anim": "singRIGHT-shoot",
+			"fps": 24,
+			"name": "derecha shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				227,
+				5
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "red miss <",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "red miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				337
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "red miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-144,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "red miss>",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/redplayable",
+	"position": [
+		50,
+		350
+	],
+	"healthicon": "impostor",
+	"flip_x": true,
+	"healthbar_colors": [
+		187,
+		45,
+		48
+	],
+	"camera_position": [
+		300,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
