@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Amongus_Alphabet.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="!0000" x="0" y="0" width="22" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="?0000" x="31" y="0" width="54" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="A0000" x="94" y="0" width="54" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="B0000" x="157" y="0" width="39" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="C0000" x="205" y="0" width="42" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="D0000" x="256" y="0" width="47" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="E0000" x="312" y="0" width="39" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="F0000" x="360" y="0" width="37" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="G0000" x="406" y="0" width="53" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="H0000" x="468" y="0" width="45" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="I0000" x="522" y="0" width="34" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="J0000" x="565" y="0" width="55" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="K0000" x="629" y="0" width="45" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="L0000" x="683" y="0" width="47" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="M0000" x="739" y="0" width="59" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="N0000" x="807" y="0" width="51" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="O0000" x="867" y="0" width="53" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="P0000" x="929" y="0" width="39" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="Q0000" x="0" y="162" width="51" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="R0000" x="60" y="162" width="45" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="S0000" x="114" y="162" width="43" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="T0000" x="166" y="162" width="46" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="U0000" x="221" y="162" width="52" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="V0000" x="282" y="162" width="53" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="W0000" x="344" y="162" width="60" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="X0000" x="413" y="162" width="54" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="Y0000" x="476" y="162" width="46" height="153" pivotX="0" pivotY="0"/>
+	<SubTexture name="Z0000" x="531" y="162" width="42" height="153" pivotX="0" pivotY="0"/>
+</TextureAtlas>
