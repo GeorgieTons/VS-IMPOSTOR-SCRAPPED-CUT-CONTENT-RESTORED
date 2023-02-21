@@ -1,0 +1,3 @@
+Value 1: Speed
+Value 2: Intensity
+put 0 in value1 to reset

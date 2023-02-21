@@ -1,0 +1,4 @@
+Makes the bodies from defeat/tripletrouble stage visible/hide
+ make sure the sprites named ('bodies2' = back, 'bodies' = body, 'bodiesfront' = body (front) )
+value1:alpha
+value2:duration

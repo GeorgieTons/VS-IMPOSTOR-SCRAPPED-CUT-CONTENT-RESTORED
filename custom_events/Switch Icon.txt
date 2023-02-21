@@ -1,0 +1,3 @@
+Switches the position of dad and bf's icons
+value1: toggle(0, 1)
+0 makes it visible, 1 makes it invisible

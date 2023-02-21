@@ -1,0 +1,4 @@
+SUSSSY JUMPSCARE
+
+value1:intensity
+value2:duration

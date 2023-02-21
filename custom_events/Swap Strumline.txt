@@ -1,0 +1,4 @@
+Swaps Strumline/Notes
+value1: toggle (0, 1)
+0 makes the dad's strumline goes to bf and bf's strum goes to dad's
+1 resets everything

@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				10500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.05"
+					]
+				]
+			],
+			[
+				10875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.05"
+					]
+				]
+			],
+			[
+				11250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				11625,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-wd"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf"
+					]
+				]
+			],
+			[
+				106500,
+				[
+					[
+						"Change Character",
+						"1",
+						"bananungus-alt"
+					]
+				]
+			],
+			[
+				107625,
+				[
+					[
+						"Change Character",
+						"1",
+						"bananungus"
+					]
+				]
+			]
+		]
+	}
+}

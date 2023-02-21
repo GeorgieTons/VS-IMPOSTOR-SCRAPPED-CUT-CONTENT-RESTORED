@@ -1,0 +1,16 @@
+{
+	"song": {
+		"events": [
+			[
+				17181.8181818182,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"Dad"
+					]
+				]
+			]
+		]
+	}
+}

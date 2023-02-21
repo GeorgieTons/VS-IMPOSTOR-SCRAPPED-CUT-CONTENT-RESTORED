@@ -1,0 +1,3 @@
+Change the stage for the stageName (monotone)
+value1:number of stage
+(0 = blue, 1 = red, 2 = purple, 3 = green, 4 = defeat)

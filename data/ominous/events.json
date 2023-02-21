@@ -1,0 +1,41 @@
+{
+	"song": {
+		"events": [
+			[
+				15360,
+				[
+					[
+						"Defeat Bodies",
+						"1",
+						"0.3"
+					],
+					[
+						"Set Cam Zoom",
+						"0.5",
+						"0.3"
+					],
+					[
+						"Change Character",
+						"BF",
+						"bf-defeat-scared"
+					]
+				]
+			],
+			[
+				23040,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						"0.1"
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.1"
+					]
+				]
+			]
+		]
+	}
+}
